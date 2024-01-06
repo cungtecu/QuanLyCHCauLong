@@ -19,6 +19,11 @@ namespace QuanLyCHCauLong
 
         private void Frmtimkiemhoadon_Load(object sender, EventArgs e)
         {
+            var name = "nhuong";
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
         }
     }

@@ -38,15 +38,15 @@
             this.txtsohoadon = new System.Windows.Forms.TextBox();
             this.txttongtien = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtnam = new System.Windows.Forms.TextBox();
+            this.txtthang = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtmanhanvien = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtmakhachhang = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.txtthang = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtnam = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.dgvtimkiemhoadon = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -147,6 +147,7 @@
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin chung";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // txtsohoadon
             // 
@@ -171,6 +172,40 @@
             this.label2.Size = new System.Drawing.Size(122, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Mã khách hàng";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label6.Location = new System.Drawing.Point(355, 134);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(44, 20);
+            this.label6.TabIndex = 2;
+            this.label6.Text = "Năm";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label1.Location = new System.Drawing.Point(49, 134);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(55, 20);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Tháng";
+            // 
+            // txtnam
+            // 
+            this.txtnam.Location = new System.Drawing.Point(359, 157);
+            this.txtnam.Name = "txtnam";
+            this.txtnam.Size = new System.Drawing.Size(278, 27);
+            this.txtnam.TabIndex = 3;
+            // 
+            // txtthang
+            // 
+            this.txtthang.Location = new System.Drawing.Point(53, 157);
+            this.txtthang.Name = "txtthang";
+            this.txtthang.Size = new System.Drawing.Size(278, 27);
+            this.txtthang.TabIndex = 3;
             // 
             // label4
             // 
@@ -215,40 +250,6 @@
             this.label5.Size = new System.Drawing.Size(78, 20);
             this.label5.TabIndex = 2;
             this.label5.Text = "Tổng tiền";
-            // 
-            // txtthang
-            // 
-            this.txtthang.Location = new System.Drawing.Point(53, 157);
-            this.txtthang.Name = "txtthang";
-            this.txtthang.Size = new System.Drawing.Size(278, 27);
-            this.txtthang.TabIndex = 3;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(49, 134);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 20);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Tháng";
-            // 
-            // txtnam
-            // 
-            this.txtnam.Location = new System.Drawing.Point(359, 157);
-            this.txtnam.Name = "txtnam";
-            this.txtnam.Size = new System.Drawing.Size(278, 27);
-            this.txtnam.TabIndex = 3;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label6.Location = new System.Drawing.Point(355, 134);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(44, 20);
-            this.label6.TabIndex = 2;
-            this.label6.Text = "Năm";
             // 
             // dgvtimkiemhoadon
             // 
