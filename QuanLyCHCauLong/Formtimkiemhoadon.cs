@@ -22,9 +22,17 @@ namespace QuanLyCHCauLong
         {
             var name = "nhuong";
             var nhuong = "nhuong";
+            var name2 = "nhuong3";
+            var name3 = "nhuong3";
+            var name4 = "nhuong3";
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txttongtien_TextChanged(object sender, EventArgs e)
         {
 
         }
