@@ -1,0 +1,16 @@
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.exe.config
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.exe
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.pdb
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.AssemblyReference.cache
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Properties.Resources.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.GenerateResource.cache
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.CoreCompileInputs.cache
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.exe
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.pdb
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.FrmMain.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmloaisanpham.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmnhanvien.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmkhachhang.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmsanpham.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmhoadon.resources
+D:\doan1\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmtimkiemhoadon.resources
