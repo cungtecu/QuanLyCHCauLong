@@ -162,6 +162,7 @@
             this.txttongtien.Name = "txttongtien";
             this.txttongtien.Size = new System.Drawing.Size(278, 27);
             this.txttongtien.TabIndex = 3;
+            this.txttongtien.TextChanged += new System.EventHandler(this.txttongtien_TextChanged);
             // 
             // label2
             // 
