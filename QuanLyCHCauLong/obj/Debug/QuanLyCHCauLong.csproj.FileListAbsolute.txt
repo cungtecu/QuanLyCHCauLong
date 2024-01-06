@@ -29,3 +29,19 @@ C:\Users\qochu\Documents\Zalo Received Files\QuanLyCHCauLong\QuanLyCHCauLong\obj
 C:\Users\qochu\Documents\Zalo Received Files\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.exe
 C:\Users\qochu\Documents\Zalo Received Files\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.pdb
 C:\Users\qochu\Documents\Zalo Received Files\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.pdb
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.exe.config
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.exe
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\bin\Debug\QuanLyCHCauLong.pdb
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.AssemblyReference.cache
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmhoadon.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmkhachhang.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmloaisanpham.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.FrmMain.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmnhanvien.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmsanpham.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Frmtimkiemhoadon.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.Properties.Resources.resources
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.GenerateResource.cache
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.csproj.CoreCompileInputs.cache
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.exe
+C:\Users\Nhuong\Documents\QuanLyCHCauLong\QuanLyCHCauLong\obj\Debug\QuanLyCHCauLong.pdb
