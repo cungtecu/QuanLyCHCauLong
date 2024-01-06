@@ -15,11 +15,13 @@ namespace QuanLyCHCauLong
         public Frmtimkiemhoadon()
         {
             InitializeComponent();
+            var nhuong = "nhuong";
         }
 
         private void Frmtimkiemhoadon_Load(object sender, EventArgs e)
         {
             var name = "nhuong";
+            var nhuong = "nhuong";
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
